@@ -49,3 +49,8 @@ ul {
 ul li {
     margin: 5px 0;
 }
+
+.highlight {
+    color: #ffcc00;
+    font-weight: bold;
+}

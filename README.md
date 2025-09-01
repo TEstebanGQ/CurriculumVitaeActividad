@@ -65,7 +65,7 @@ CurriculumVitaeActividad-main/
 
 El proyecto está desplegado en Netlify y puede visualizarse en el siguiente enlace:
 
-🔗 **[Ver página en línea](https://hojade.netlify.app/)**
+🔗 **[Ver página en línea](https://strong-smakager-b85234.netlify.app/)**
 
 
 ---

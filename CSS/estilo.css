@@ -85,3 +85,13 @@ ul li {
   transform: translateY(-5px);
   box-shadow: 0 8px 20px rgba(255,204,0,0.4);
 }
+
+a {
+  color: #1e90ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #f77700;
+}
